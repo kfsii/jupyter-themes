@@ -3231,12 +3231,14 @@ body :focus .MathJax {
  color: #cdd2e9;
  width: auto;
 }
+/*
 div#maintoolbar {
  display: none !important;
 }
 #header-container {
  display: none !important;
 }
+*/
 
 <script>
     MathJax.Hub.Config({
